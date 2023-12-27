@@ -3,4 +3,4 @@ layout: post
 title: Hello Jekyll!
 ---
 # Welcome
-some content
+some content is displayed.
